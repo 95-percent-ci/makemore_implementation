@@ -7,4 +7,5 @@ This is repo is implemenation of excellent andrej karpathy video series on Makem
 All notebooks are inside `notebooks` folder
 
 1. bigram_chapter_1.ipynb [Chapter 1]
-2. traigram_chapter_1_exercise.ipynb [Exercises for Chapter 1 (WIP)]
+2. trigram_chapter_1_exercise.ipynb [Exercises for Chapter 1]
+3. neural_lang_model.ipynb [Chapter 2]
